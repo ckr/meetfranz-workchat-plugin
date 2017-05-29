@@ -14,4 +14,4 @@ https://asciinema.org/a/0fiex2136hroju6hzhtkyzn0x
 
 The open Franz and you will see the new service.
 
-<script type="text/javascript" src="https://asciinema.org/a/122604.js" id="asciicast-122604" async></script
+<script type="text/javascript" src="https://asciinema.org/a/122604.js" id="asciicast-122604" async></script>
