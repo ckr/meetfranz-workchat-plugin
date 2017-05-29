@@ -1,0 +1,25 @@
+{
+  "name": "WorkCat",
+  "version": "1.0.0",
+  "description": "Workplace Chat",
+  "main": "index.js",
+  "author": "Constantinos Kouloumbris <c@kouloumbris.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamID}.facebook.com/chat/",
+    "serviceName": "WorkChat",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasTeamID": true,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {},
+    "openDevTools": false,
+    "wording": {
+        "url": "facebook.com",
+        "team": "WorkChat"
+    }
+  }
+}
