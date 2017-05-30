@@ -12,4 +12,4 @@ Bellow is a recording of the commands.
 
 https://asciinema.org/a/0fiex2136hroju6hzhtkyzn0x
 
-The open Franz and you will see the new service.
+Now open Franz and you will see the new service.
